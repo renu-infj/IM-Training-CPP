@@ -1,5 +1,4 @@
-// C program to check if k-th bit
-// of a given number is set or not
+// C program to check if k-th bit of a given number is set or not
 #include <stdio.h>
 
 void isKthBitSet(int n, int k)
@@ -17,5 +16,3 @@ int main()
 	isKthBitSet(n, k);
 	return 0;
 }
-
-// this code is contributed by devendrasaluke
